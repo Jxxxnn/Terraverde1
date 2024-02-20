@@ -1,0 +1,15 @@
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\bin\Debug\TerraVerde.exe.config
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\bin\Debug\TerraVerde.exe
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\bin\Debug\TerraVerde.pdb
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.csproj.AssemblyReference.cache
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.csproj.SuggestedBindingRedirects.cache
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.HomeScreen.resources
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.Login.resources
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.Properties.Resources.resources
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.Signup.resources
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.csproj.GenerateResource.cache
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.csproj.CoreCompileInputs.cache
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.exe
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.pdb
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.UserAccount.resources
+C:\Users\Em-jay\source\repos\TerraVerde\TerraVerde\obj\Debug\TerraVerde.UserDashboard.resources
