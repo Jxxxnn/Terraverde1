@@ -16,5 +16,8 @@ namespace TerraVerde
         {
             InitializeComponent();
         }
+
+        public void showSignup() { signup1.Visible = true; }
+        public void showResetPass() { forgetPassword1.Visible = true; }
     }
 }
